@@ -1,3 +1,5 @@
+language: bash
+
 deploy:
   provider: pages
   local_dir: pages
